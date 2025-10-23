@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Bharath 👋
 
-<!--
-**cbharath29/cbharath29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Web Developer** with experience in building modern, user-friendly web applications. My main stack includes:
 
-Here are some ideas to get you started:
+- **Python** 🐍
+- **SQL** 🗄️
+- **HTML, CSS, JavaScript** 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 What I’m Working On
+
+- Creating dynamic web applications
+- Exploring backend and frontend frameworks
+- Automating workflows and data processing
+
+## 🌱 What I’m Learning
+
+- Deepening my knowledge in modern JavaScript frameworks
+- Advanced SQL techniques and database optimization
+
+## 💬 Ask Me About
+
+- Python web development
+- Responsive design with HTML & CSS
+- Database design and querying
+- JavaScript interactivity and DOM manipulation
+
+---
+
+Thanks for visiting my profile! 🚀
