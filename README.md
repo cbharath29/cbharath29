@@ -1,23 +1,23 @@
-# Hi there, I'm Bharath 👋
+# Hi there, I'm Bharath 
 
 I'm a passionate **Web Developer** with experience in building modern, user-friendly web applications. My main stack includes:
 
-- **Python** 🐍
-- **SQL** 🗄️
-- **HTML, CSS, JavaScript** 💻
+- **Python** 
+- **SQL** 
+- **HTML, CSS, JavaScript** 
 
-## 🔭 What I’m Working On
+##  What I’m Working On
 
 - Creating dynamic web applications
 - Exploring backend and frontend frameworks
 - Automating workflows and data processing
 
-## 🌱 What I’m Learning
+##  What I’m Learning
 
 - Deepening my knowledge in modern JavaScript frameworks
 - Advanced SQL techniques and database optimization
 
-## 💬 Ask Me About
+##  Ask Me About
 
 - Python web development
 - Responsive design with HTML & CSS
@@ -26,4 +26,4 @@ I'm a passionate **Web Developer** with experience in building modern, user-frie
 
 ---
 
-Thanks for visiting my profile! 🚀
+Thanks for visiting my profile! �
