@@ -1,4 +1,4 @@
-# I'm Bharath Kumar
+# Hi I'm Bharath Kumar
 
 ### Python Developer | Full Stack Developer | Backend Developer | Problem Solver
 
@@ -8,16 +8,16 @@
 
 <p align="center">
   <a href="https://github.com/cbharath29">
-    <img src="https://img.shields.io/badge/GitHub-cbharath29-black?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-cbharath29-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/c-bharath-kumar-iare/">
-    <img src="https://img.shields.io/badge/LinkedIn-Bharath%20Kumar-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:bharathkumarc044@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Bharath%20Kumar-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="https://leetcode.com/u/cbharath29/">
-    <img src="https://img.shields.io/badge/LeetCode-cbharath29-orange?style=for-the-badge&logo=leetcode" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-cbharath29-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode"/>
+  </a>
+  <a href="mailto:bharathkumarc044@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
@@ -32,7 +32,7 @@ I'm an ECE graduate passionate about **Python development and problem-solving**.
 📅 Graduation: 2026
 📍 Hyderabad, India
 
-I'm currently looking for opportunities as a:
+### 🎯 Looking For
 
 * 🐍 Python Developer
 * 💻 Software Developer
@@ -43,32 +43,32 @@ I'm currently looking for opportunities as a:
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-### Programming & Web Technologies
+### Languages & Web Technologies
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </p>
 
 ### Database
 
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ### Tools & Platforms
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
 </p>
 
 ---
@@ -79,13 +79,13 @@ I'm currently looking for opportunities as a:
 
 A deep learning project that classifies animal species from footprint images using a **Convolutional Neural Network (CNN)**. The system uses image preprocessing and CNN-based classification to identify different animal footprints.
 
-**Tech Stack:**
+**Tech Stack**
 
 `Python` `CNN` `TensorFlow/Keras` `OpenCV` `NumPy` `Pandas` `Jupyter Notebook`
 
-🔗 **[View Project on GitHub](https://github.com/cbharath29/Animal-Footprint-Detection)**
+🔗 [View Project](https://github.com/cbharath29/Animal-Footprint-Detection)
 
-🚧 Live Demo: **Coming Soon**
+🚧 **Live Demo:** Coming Soon
 
 ---
 
@@ -93,21 +93,21 @@ A deep learning project that classifies animal species from footprint images usi
 
 An AI-based application that analyzes resumes to extract key information such as **skills, education, and experience**. The system evaluates resume content, identifies relevant keywords, and provides feedback to help candidates improve their resumes for specific job requirements.
 
-**Tech Stack:**
+**Tech Stack**
 
 `React.js` `HTML` `CSS` `Java` `Spring Boot` `MySQL` `Google Gemini AI` `Brevo API` `Adzuna API` `Docker` `Maven` `Git` `GitHub`
 
-🔗 **[View Project on GitHub](https://github.com/cbharath29/AI-Resume-Analyzer-)**
+🔗 [View Project](https://github.com/cbharath29/AI-Resume-Analyzer-)
 
-🚧 Live Demo: **Coming Soon**
+🚧 **Live Demo:** Coming Soon
 
 ---
 
 ## 🏆 Achievements & Certifications
 
 * 🐾 Developed and trained an **Animal Footprint Classification system using CNN and image processing techniques**.
-* 🧠 Presented/Pursued academic project work in the area of **Deep Learning and Computer Vision**.
-* 💻 Built software projects using technologies including **Python, Java, Spring Boot, MySQL, and AI APIs**.
+* 🧠 Presented/Pursued academic project work in **Deep Learning and Computer Vision**.
+* 💻 Built software projects using **Python, Java, Spring Boot, MySQL, and AI APIs**.
 * 📊 **Data Science Using Python with NumPy** — NSIC Field Project.
 * 📄 **Smart Car Parking System** — Published in IJSREM.
 
@@ -124,37 +124,53 @@ An AI-based application that analyzes resumes to extract key information such as
 
 ## 🤝 Open to Collaborate On
 
-* 🌐 **Full-stack projects**
+🌐 **Full-stack projects**
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cbharath29&show_icons=true&theme=default&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cbharath29&layout=compact&theme=default&hide_border=true" height="165"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=cbharath29&show_icons=true&hide_border=true&rank_icon=github"
+    alt="Bharath Kumar's GitHub Stats"
+  />
 </p>
 
+### 🔤 Most Used Languages
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=cbharath29&theme=default&hide_border=true" alt="GitHub Streak"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cbharath29&layout=compact&hide_border=true&langs_count=6"
+    alt="Bharath Kumar's Most Used Languages"
+  />
+</p>
+
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=cbharath29&hide_border=true"
+    alt="Bharath Kumar's GitHub Streak"
+  />
 </p>
 
 ---
 
-## 🔗 Connect With Me
+## 📫 Connect With Me
 
 <p align="center">
   <a href="https://github.com/cbharath29">
-    <img src="https://img.shields.io/badge/GitHub-cbharath29-181717?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-cbharath29-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/c-bharath-kumar-iare/">
-    <img src="https://img.shields.io/badge/LinkedIn-Bharath%20Kumar-0A66C2?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Bharath%20Kumar-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://leetcode.com/u/cbharath29/">
-    <img src="https://img.shields.io/badge/LeetCode-cbharath29-FFA116?style=for-the-badge&logo=leetcode"/>
+    <img src="https://img.shields.io/badge/LeetCode-cbharath29-FFA116?style=for-the-badge&logo=leetcode" />
   </a>
   <a href="mailto:bharathkumarc044@gmail.com">
-    <img src="https://img.shields.io/badge/Email-bharathkumarc044%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-bharathkumarc044%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -165,24 +181,9 @@ An AI-based application that analyzes resumes to extract key information such as
 ---
 
 <p align="center">
-  <b>💻 Building. Learning. Improving. 🚀</b>
+  <b>💻 Building • Learning • Improving 🚀</b>
 </p>
 
 <p align="center">
   ⭐ Feel free to explore my repositories and connect with me!
 </p>
-
-<!--
-**cbharath29/cbharath29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
