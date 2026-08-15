@@ -8,7 +8,7 @@
 
 <h1>👋 Hi, I'm Bharath Kumar</h1>
 
-<h3>Python Developer | Full Stack Developer | Backend Developer | Problem Solver</h3>
+<h3>Python Developer | Full Stack Developer | Backend Developer | Problem Solver</h3> 
 
 <br>
 
